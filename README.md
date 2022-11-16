@@ -8,13 +8,14 @@
     1.Створив новий файл зрозширенням ladaopp.ipynb та, та скопіював код програми ![image](https://user-images.githubusercontent.com/118319436/202111901-84b5a93e-787a-4fa8-8e3c-c1f5b547ca2c.png)
 
  ;
-    
-    ![Програма вивела]![image](https://user-images.githubusercontent.com/111630433/201655937-9c9f999f-361f-460c-880a-8388cded61ce.png)
- ; 
-    
-    2.Створив новий файл зрозширенням ladaopp.py та, та скопіював код програми ![image](https://user-images.githubusercontent.com/111630433/201655570-d9b5f43d-f1ac-44ec-be05-fcfcb95510ba.png)
+    ![image](https://user-images.githubusercontent.com/118319436/202112060-e810d75c-27e9-40ec-bebb-9d6acfc5734f.png)
+
+ ;  
+    2.Створив новий файл зрозширенням ladaopp.py та, та скопіював код програми ![image](https://user-images.githubusercontent.com/118319436/202112281-e0b86fe2-e5fb-4a5d-afd3-5f214bd04305.png)
+
  ;
-    ![Програма вивела]![image](https://user-images.githubusercontent.com/111630433/199986238-2a9a8116-afb7-4c4a-af70-b8b8283ea5b0.png)
+    ![Програма вивела]![image](https://user-images.githubusercontent.com/118319436/202112453-aa3adddb-c36a-4b2d-8878-e64a50c2b93a.png)
+
 
 
 ### Висновок: 
